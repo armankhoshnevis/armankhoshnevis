@@ -1,6 +1,6 @@
-## Hi there 👋
+## About ME 
 
-Hi! 
+Hi 👋!
 
 - 👨‍🎓 My name is Arman and I am currently a second-year PhD student in Mechanical Engineering at Michigan State University
 - 🧑‍💻 As a graduate reseach assistance, my research spans wide range of topics from developing fractional-order constitutive models for nano-composites and study them from statistical perspective to the studying the effect of anxiety on voice.
