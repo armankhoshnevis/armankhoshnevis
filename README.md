@@ -2,9 +2,9 @@
 
 Hi 👋!
 
-- 👨‍🎓 My name is Arman and I am currently a second-year PhD student in Mechanical Engineering at Michigan State University
+- 👨‍🎓 My name is Arman and I am currently a PhD candidate in Mechanical Engineering at Michigan State University
 - 🧑‍💻 As a graduate reseach assistance, my research spans wide range of topics from developing fractional-order constitutive models for nano-composites and study them from statistical perspective to the studying the effect of anxiety on voice.
-- 🌩 I am very new to Git and GitHub! However, I am very determined to stay in touch with it and upload my projects (including my reseach and course projects in ML, Data Science, etc.) here.
+- 🌩 I still consider myself a beginner in Git and GitHub! However, I am very determined to stay in touch with it and upload my projects (including my reseach and course projects in ML, Data Science, etc.) here.
 <!--
 **armankhoshnevis/armankhoshnevis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
